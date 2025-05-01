@@ -1,5 +1,5 @@
 # 🧰 Verilog & Proteus  
-🔗 **Video Link:** *Project10.mp4*
+🔗 **Video Link:** *https://www.dropbox.com/scl/fo/bj1rc1h2q4vnz1hwmoh0s/APeUW199G_6MJyix60LonY8?rlkey=iw15b4ja2wy540byizbo9fb49&st=xxx0d3d8&dl=0*
 
 ---
 
