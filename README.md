@@ -87,15 +87,6 @@ SKO            // Check output ready
 HLT  
 ```
 
-### 🗂 Stack Test
-```assembly
-LDA [0x100]    // Load initial value  
-PUSH           // Push to stack  
-POP            // Pop from stack  
-STA [0x101]    // Store restored value  
-HLT  
-```
-
 ---
 
 ## ✅ Simulation Results
