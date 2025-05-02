@@ -111,8 +111,7 @@ HLT
 ## 📝 Implementation Notes
 - Instructions take 1–3 cycles  
 - Memory uses 12-bit addressing  
-- I/O is synchronous  
-- Stack grows downward  
+- I/O is synchronous   
 - Interrupts are maskable  
 - Conditional skips affect PC  
 
