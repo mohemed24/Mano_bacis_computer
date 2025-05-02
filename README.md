@@ -1,5 +1,5 @@
 # 🧰 Verilog & Proteus  
-🔗 **Video Link:** *https://www.dropbox.com/scl/fi/1gatsz5ryn4h8h6jsnich/MANO.mp4?rlkey=b7fainjw5o9ejn3tr644n78g2&st=gox020qv&dl=0*
+🔗 **Video Link:** *[https://www.dropbox.com/scl/fi/1gatsz5ryn4h8h6jsnich/MANO.mp4?rlkey=b7fainjw5o9ejn3tr644n78g2&st=gox020qv&dl=0](https://drive.google.com/drive/folders/13KVklbSsxx21-d4szbK2ETUkNM5KYemO?usp=drive_link)*
 
 ---
 
