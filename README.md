@@ -1,5 +1,6 @@
 # 🧰 Verilog & Proteus  
 🔗 **Video Link:** *https://drive.google.com/drive/folders/13KVklbSsxx21-d4szbK2ETUkNM5KYemO?usp=drive_link*
+*https://www.dropbox.com/scl/fi/bj4l3cjmk85vk40e7akbv/.mp4?rlkey=7s3qqdzy0awncjgdb4vad68yt&st=ab9blxz3&dl=0*
 ---
 
 ## 📌 Project Overview  
