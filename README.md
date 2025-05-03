@@ -11,7 +11,7 @@ Mano Computer designed by 👥 Team (Team ID:binladin)
   •Programming language: Verilog
   • Supervisors: Dr. Hamdy Almonaier ,
                 Eng. Kamel Mohammed
----
+
 ## Instructions:
 [1] Memory Reference
 [2] Register Reference
