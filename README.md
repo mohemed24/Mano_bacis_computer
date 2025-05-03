@@ -25,7 +25,7 @@ Mano Computer designed by 👥 Team (Team ID:binladin)
 - CLA
 - CMP
 - INP
-The specific prediction of the instructions is in the data.txt file
+- The specific prediction of the instructions is in the data.txt file
 
 ## 📌 Project Overview  
 This project implements **Mano's Basic Computer** — a simplified computer architecture model — using **Verilog HDL** for digital design and **Proteus** for simulation. The system supports the **complete instruction set** defined in Mano's original architecture.
