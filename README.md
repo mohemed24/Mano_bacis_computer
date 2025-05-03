@@ -13,9 +13,9 @@ Mano Computer designed by 👥 Team (Team ID:binladin)
                     Eng. Kamel Mohammed
 
 ## Instructions:
-[1] Memory Reference
-[2] Register Reference
-[3] Input - Output Reference
+- [1] Memory Reference
+- [2] Register Reference
+- [3] Input - Output Reference
 
 • We have included both memory and register reference instructions and an io instruction.
 ## Please note that the specific instructions applied in the memory code are listed below:
