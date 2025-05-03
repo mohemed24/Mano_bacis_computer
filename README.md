@@ -19,12 +19,12 @@ Mano Computer designed by 👥 Team (Team ID:binladin)
 
 • We have included both memory and register reference instructions and an io instruction.
 ## Please note that the specific instructions applied in the memory code are listed below:
--• AND
--• ADD
--• LDA
--• CLA
--• CMP
--• INP
+- AND
+- ADD
+- LDA
+- CLA
+- CMP
+- INP
 The specific prediction of the instructions is in the data.txt file
 
 ## 📌 Project Overview  
