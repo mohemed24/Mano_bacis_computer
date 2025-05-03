@@ -7,9 +7,9 @@ Mano Computer in proteus and verilog
 ---
 Mano Computer designed by 👥 Team (Team ID:binladin)
 ---
-  • Course name: Microprocessor II
-  •Programming language: Verilog
-  • Supervisors: Dr. Hamdy Almonaier ,
+- **Course name:** Microprocessor II
+- **Programming language:** Verilog
+ - **Supervisors:**Dr. Hamdy Almonaier ,
                 Eng. Kamel Mohammed
 
 ## Instructions:
