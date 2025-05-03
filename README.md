@@ -1,7 +1,31 @@
 # 🧰 Verilog & Proteus  
-🔗 **Video Link:** *https://drive.google.com/drive/folders/13KVklbSsxx21-d4szbK2ETUkNM5KYemO?usp=drive_link*
+🔗🎬 **Video Link:** *https://drive.google.com/drive/folders/13KVklbSsxx21-d4szbK2ETUkNM5KYemO?usp=drive_link*
 *https://www.dropbox.com/scl/fi/bj4l3cjmk85vk40e7akbv/.mp4?rlkey=7s3qqdzy0awncjgdb4vad68yt&st=ab9blxz3&dl=0*
 ---
+
+Mano Computer in proteus and verilog
+---
+Mano Computer designed by 👥 Team (Team ID:binladin)
+---
+   Course name: Microprocessor II
+   Programming language: Verilog
+   Supervisors: Dr. Hamdy Almonaier ,
+                Eng. Kamel Mohammed
+---
+## Instructions:
+[1] Memory Reference
+[2] Register Reference
+[3] Input - Output Reference
+
+• We have included both memory and register reference instructions and an io instruction.
+## Please note that the specific instructions applied in the memory code are listed below:
+• AND
+• ADD
+• LDA
+• CLA
+• CMP
+• INP
+The specific prediction of the instructions is in the data.txt file
 
 ## 📌 Project Overview  
 This project implements **Mano's Basic Computer** — a simplified computer architecture model — using **Verilog HDL** for digital design and **Proteus** for simulation. The system supports the **complete instruction set** defined in Mano's original architecture.
@@ -11,7 +35,7 @@ This project implements **Mano's Basic Computer** — a simplified computer arch
 ## 🧾 Instruction Set Implementation
 
 ### 🔹 Memory Reference Instructions
-- **AND (0x00):** Bitwise AND between memory content and AC  
+- **AND (0x00):---Bitwise AND between memory content and AC  
 - **ADD (0x01):** Adds memory content to AC with carry handling  
 - **LDA (0x02):** Loads data from memory into AC  
 - **STA (0x03):** Stores AC content into memory  
@@ -20,7 +44,7 @@ This project implements **Mano's Basic Computer** — a simplified computer arch
 - **ISZ (0x06):** Increment memory content and skip if zero  
 
 ### 🔹 Register Reference Instructions (0x7000–0x7FFF)
-- **CLA (0x7800):** Clear AC  
+** **CLA (0x7800):** Clear AC  
 - **CLE (0x7400):** Clear E flag  
 - **CMA (0x7200):** Complement AC  
 - **CME (0x7100):** Toggle E  
